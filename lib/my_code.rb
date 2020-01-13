@@ -30,3 +30,7 @@ def map_to_double(source_array)
   double_array
 end
 
+def map_to_square(source_array)
+  i = 0
+  square_array = []
+  while i < source_array
